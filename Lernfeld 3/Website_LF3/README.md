@@ -1,4 +1,4 @@
-# Website Project Lf3 Networkig
+# Website Project LF3 Networkig
 
 
 <ins>How to install<ins/>
