@@ -1,6 +1,6 @@
 # Itech-IT2x
 
-Lernfeld Repository für die ITECH (Berufsschule 14) Elbinseln Wilhelmsburg
+Lernfeld Repository 
 <pre>
 Berufsschule: ITECH BS14 Elbinseln Wilhelmsburg
 Website: <a href="https://www.itech-bs14.de/startseite">https://www.itech-bs14.de<a/>
